@@ -1,5 +1,4 @@
 # gitmeow
 
-べべちゃん
-にゃんこ
-みみちゃん君が好きだ
+myao
+she can't stop meowing
